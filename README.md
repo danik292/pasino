@@ -1,2 +1,2 @@
 # pasino
- A kasino game written in pascal.
+ A casino game written in pascal.
